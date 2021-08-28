@@ -1,0 +1,13 @@
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.toggle-button:hover {
+  background-color: peachpuff;
+  cursor: pointer;
+}
